@@ -1,3 +1,6 @@
 [submodule "apps/micro_sub1"]
 	path = apps/micro_sub1
 	url = https://github.com/datnd35-angular/micro_sub1.git
+[submodule "apps/micro_sub2"]
+	path = apps/micro_sub2
+	url = https://github.com/datnd35-angular/micro_sub2.git
