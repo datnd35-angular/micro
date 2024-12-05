@@ -19,6 +19,5 @@ export default withModuleFederation(
      *   ['app2', 'https://app2.example.com'],
      * ]
      */
-  },
-  { dts: false }
+  }
 );
