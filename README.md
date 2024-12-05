@@ -13,3 +13,5 @@
 
 - ` git clone https://github.com/datnd35-angular/micro.git`
 - At Apps `git submodule update --init --recursive`
+
+## implement Dynamic Module Federation
